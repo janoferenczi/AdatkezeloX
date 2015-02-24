@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: AdatkezeloX.jar
+Main-Class: ro.magyarkec.Main
+

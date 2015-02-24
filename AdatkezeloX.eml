@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/AdatkezeloX"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="JPA 2.1-2.1" value="project"/>
+		<level name="hibernate" value="project"/>
+		<level name="SWT" value="project"/>
+		<level name="joda" value="project"/>
+	</levels>
+</component>

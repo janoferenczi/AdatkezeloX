@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1805707308">
+    <data-source source="LOCAL" name="AdatkezeloDB" uuid="833376ad-5c74-4a3c-a024-891ec95a9b9a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:db.sqlite</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>

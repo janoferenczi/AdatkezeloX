@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AdatkezeloX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AdatkezeloX_jar</output-path>
+    <root id="archive" name="AdatkezeloX.jar">
+      <element id="module-output" name="AdatkezeloX" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.swt_3.103.1.v20140903-1938.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.jface_3.10.1.v20140813-1009.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.jface.text_3.9.1.v20140827-1810.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.core.commands_3.6.100.v20140528-1422.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.e4.ui.css.swt_0.11.101.v20140818-1343.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.jface.databinding_1.6.200.v20140528-1422.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.e4.ui.css.swt.theme_0.9.300.v20140424-2042.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.e4.ui.workbench.swt_0.12.100.v20140530-1436.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.e4.ui.workbench.addons.swt_1.1.1.v20140903-0821.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/SWT/org.eclipse.e4.ui.workbench.renderers.swt_0.12.1.v20140903-1023.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.persistence.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/antlr-2.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/jandex-1.1.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/javassist-3.18.1-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/jboss-logging-3.1.3.GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/hibernate-core-4.3.8.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/hibernate-entitymanager-4.3.8.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/jboss-logging-annotations-1.2.0.Beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/sqlite-jdbc-3.7.6.3-20110609.081603-3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/hibernate-commons-annotations-4.0.5.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hibernate/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/joda/joda-time-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/joda/joda-time-2.4-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/joda/joda-time-2.4-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
